@@ -1,6 +1,8 @@
 # blender-gms2-vertex-buffer-export
 Blender addon that exports to vertex buffers, made for GameMaker Studio 2
 
+Load files with `buffer_load()`, make vertex buffers with `vertex_buffer_create_from_buffer`. Better docs coming soon!
+
 Required GameMaker Vertex Format Order:
 ```
 {
